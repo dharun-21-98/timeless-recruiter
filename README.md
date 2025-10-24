@@ -4,9 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1zrc1CPUrQrNlZ4u0ey7hvsUDORoV7umQ
+Download the code, create new repo and run in local to see if its working and then you can deploy in vercel
 
 ## Run Locally
 
